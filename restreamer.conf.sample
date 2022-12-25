@@ -77,6 +77,15 @@ streamers: (
   }
 )
 
+#realm = "ReStreamer"
+
+#users: (
+#  {
+#    login: "user",
+#    pass: "pass"
+#  }
+#)
+
 #stun-server: "stun://stun.l.google.com:19302"
 #turn-server: "turn://username:password@host:port"
 
